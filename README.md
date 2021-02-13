@@ -1,2 +1,2 @@
 # Rescue_Robot
-This repo focuses on building a rescue robot using a raspberry pie 3. The robot will have a remote control through a web UI.
+This repo focuses on building a rescue robot using a raspberry pie 3. The robot has a camera and is remotely controlled through a web UI, with the live video from the camera being streamed in real time.
