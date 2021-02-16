@@ -1,4 +1,4 @@
-# Network-Controlled Robot using a Raspberry-Pi 3
+# Network-Controlled Robot using a Raspberry Pi 3
 This repo focuses on building an explorer robot using a Raspberry Pi 3. The robot has a camera and is remotely controlled through a web UI (while connected to the same wireless network), with the live video from the camera being streamed in real time.
 
 **Coded in:**
